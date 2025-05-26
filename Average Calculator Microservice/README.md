@@ -9,6 +9,12 @@ A simple Node.js API that fetches numbers from external sources, keeps the last 
 
 ![Registration API](screenshots/Registration.png)
 ![Authorized Token API](screenshots/Token.png)
+![Prime](screenshots/primewithstatus.png)
+![Fibonacci](screenshots/fibowithstatus.png)
+![Random](screenshots/randwithstatus.png)
+![even](screenshots/evenwithstatus.png)
+
+## Outputs
 ![Prime1](screenshots/prime2.png)
 ![Prime2](screenshots/prime1.png)
 ![Fibonacci](screenshots/fibonacci.png)
