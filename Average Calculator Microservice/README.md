@@ -7,8 +7,8 @@ A simple Node.js API that fetches numbers from external sources, keeps the last 
 
 ## Screenshots
 
-![Registration API](screenshots/registration.png)
-![Authorized Token API](screenshots/token.png)
+![Registration API](screenshots/Registration.png)
+![Authorized Token API](screenshots/Token.png)
 ![Prime1](screenshots/prime2.png)
 ![Prime2](screenshots/prime1.png)
 ![Fibonacci](screenshots/fibonacci.png)
